@@ -16,3 +16,23 @@ p {
 a {
     color:red;
 }
+
+a:hover {
+    background-color: blue;
+}
+
+#important_paragraph {
+
+}
+#important_paragraph:hover {
+	background-color: yellow;
+	font-size: 40px;
+}
+
+.less_imporant_paragraphs{
+
+}
+
+.less_imporant_paragraphs:hover{
+	background-color: blue;
+}
